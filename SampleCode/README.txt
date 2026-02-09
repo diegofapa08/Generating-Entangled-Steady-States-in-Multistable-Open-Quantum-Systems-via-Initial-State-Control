@@ -1,0 +1,1 @@
+In this folder we provide two MATLAB codes to compute Eq.(3) and Eq.(5) of the manuscript named Fig5DataEq3.m and Fig5DataEq5.m, respectively. We exemplify how to use both methods to generate the data shown in panel e) of Fig. 5. The data generated with both methods is equivalent, showing the equivalence of these two methods as discussed in detail in the manuscript.
