@@ -1,0 +1,4 @@
+The MATLAB file creates panels c) and d) of Fig. (4).
+For panel (c), the QFIBalanced.txt file can be used with the first column being the S-values (x-axis), and the second column being the QFI. The code in the MATLAB file also plots the analytical expression QFI  = (N^2+4N)/3 - 4*S(S+1)/3
+For panel (d), the N50Protocol.txt file contains all marker data in the figure. The fifth column contains the values of N, the second column contains the QFI for the circle markers in the figure, the third column contains the QFI for the triangular markers in the figure, and the fourth column contains the QFI for the diamond markers. The file MinDickeQFI.txt contains the data needed to plot the dashed line. The MATLAB code also plots the analytical formula found for the protocol QFI = (N^2+2N)/3.
+plasma.m is the Plasma color scheme
