@@ -1,0 +1,7 @@
+The MATLAB file generates Fig. (5).
+For panel (a), the distributions are stored in the files P(S)50Eta0.txt, P(S)50Eta2.txt, and P(S)50Eta4.txt, for all of them the first column contains the S values, while the second contains the probability values P(S).
+For panel (b), the QFI values are stored in the files QFIUnbalancedEta0.txt, QFIUnbalancedEta2.txt, and QFIUnbalancedEta4.txt, for all of them the first column contains the S values, while the QFI values are stored in the second column.
+For panel (c), the QFI values are stored in the files QFIBalancedEta0.txt, QFIBalancedEta2.txt, and QFIBalancedEta4.txt, for all of them the first column contains the S values, while the QFI values are stored in the second column.
+For panel (d), the data is contained in the file N50ProtocolVarEta.txt. The fifth column contains the values of eta, the second column contains the QFI for the circle markers, while the fourth column contains the QFI for the diamond markers. The solid line is obtained as the ratio of the fourth and second columns.
+For panel (e), the data for the two different initial states is stored in the files Dif1.txt and Dif2.txt. For both files, the first column represents the dimensionless time \gamma t, the second column contains the value of S_z^A, while the third column the value of S_z^B.
+plasma.m is the color scheme used
